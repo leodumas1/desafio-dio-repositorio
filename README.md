@@ -32,7 +32,7 @@ Este repositório foi criado por **Leonardo Dumas** como parte do desafio da pla
 - Baixar atualizações do GitHub (`git pull`)
 - Clonar repositórios (`git clone`)
 - Remover arquivos versionados
-- Criar e configurar `.gitignore`
+- Criar e configurar `9.gitignore`0
 
 ### ✔️ GitHub (remoto)
 - Criar repositórios profissionais
@@ -77,11 +77,13 @@ git clone (https://github.com/leodumas1/desafio-dio-repositorio.git)
 
 
 📚 Materiais úteis
-[Documentação Git:](https://git-scm.com/doc)
+(Markdown)
 
-[Guia Markdown:](https://www.markdownguide.org)
+[Documentação Git](https://git-scm.com/doc)
 
-[GitHub Docs:](https://docs.github.com)
+[Guia Markdown](https://www.markdownguide.org)
+
+[GitHub Docs](https://docs.github.com)
 
 ✨ Autor
 Leonardo Dumas  
