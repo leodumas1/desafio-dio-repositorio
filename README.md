@@ -77,16 +77,17 @@ git clone (https://github.com/leodumas1/desafio-dio-repositorio.git)
 
 
 📚 Materiais úteis
-Documentação Git: (https://git-scm.com/doc)
+[Documentação Git:](https://git-scm.com/doc)
 
-Guia Markdown: (https://www.markdownguide.org)
+[Guia Markdown:](https://www.markdownguide.org)
 
-GitHub Docs: (https://docs.github.com)
+[GitHub Docs:](https://docs.github.com)
 
 ✨ Autor
 Leonardo Dumas  
 Desenvolvedor em evolução
 Desafio da plataforma DIO.me
 
-LINKEDIN 💼📊🤝📈 / 📉
-(www.linkedin.com/in/leonardo-dumas-499b97429)
+
+[Meu LinkedIn💼📊🤝📈 / 📉](https://www.linkedin.com/in/leonardo-dumas-499b97429)
+
