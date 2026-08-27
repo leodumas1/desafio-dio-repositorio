@@ -73,3 +73,17 @@ git checkout main
 git log
 
 🌐 Clonando este repositório
+git clone https://github.com/leodumas1/desafio-dio-repositorio.git
+
+
+📚 Materiais úteis
+Documentação Git: https://git-scm.com/doc
+
+Guia Markdown: https://www.markdownguide.org
+
+GitHub Docs: https://docs.github.com
+
+✨ Autor
+Leonardo Dumas  
+Desenvolvedor em evolução
+Desafio da plataforma DIO.me
